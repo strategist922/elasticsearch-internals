@@ -28,7 +28,7 @@ Paul Smith
 
 Table of Contents
 =================
-* [Recovery](Recovery/Recovery.md)
+* [Recovery](elasticsearch-internals/Recovery/Recovery.md)
 
 
 [1] HBase Architecture post by Lars George - http://www.larsgeorge.com/2009/10/hbase-architecture-101-storage.html
