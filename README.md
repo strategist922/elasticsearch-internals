@@ -20,7 +20,11 @@ Caveat Emptor
 =============
 This project was started in October 2012, just after ES 0.19.10 was released.  Some of these details may change over time, and given the speed at which the ES project evolves, it could be quite quickly!  
 
-Additionally, this information was created based on my own understanding of how ElasticSearch works, through operational & engineering experience of using the product, and some deep diving within the source code itself (lots of step-debugging too).  But hey, I could be totally wrong. Please take care when using this information!
+Additionally, this information was created based on my own understanding of how ElasticSearch works, through operational & engineering experience of using the product, and some deep diving within the source code itself (lots of step-debugging too).  But hey, I could be totally wrong. 
+
+There's even areas I'm pretty vague on, and I hope to highlight these clearly, and leave a TODO trail for areas to cleanup.
+
+Please take care when using this information!
 
 regards,
 
